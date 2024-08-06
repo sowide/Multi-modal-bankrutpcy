@@ -1,4 +1,4 @@
-# Multi-modal-bankrutpcy
+# Multi-modal-bankrutpcy (Text and financial variables)
 A multi-modal bankruptcy dataset from the American stock market. The dataset includes 6190 public companies in the US stock market (New York Stock Exchange and NASDAQ) with data available in the period from 1999 to 2018. 
 Two modalities are presented:
 - Accounting variables in the form of time series with a length of 3 years
