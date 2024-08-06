@@ -2,7 +2,9 @@
 A multi-modal bankruptcy dataset from the American stock market. The dataset includes 6190 public companies in the US stock market (New York Stock Exchange and NASDAQ) with data available in the period from 1999 to 2018. 
 Two modalities are presented:
 - Accounting variables in the form of time series with a length of 3 years
-- Items 1,5 and 7 from the SEC annual reports (10-K filings) as text communications with valuable information to predict bankruptcy events for such companies.
+- Items 1,5 and 7 from the SEC annual reports (10-K filings) as text communications with valuable information to predict bankruptcy events for such companies
+
+The two datasets are temporally aligned and the primary key is represented by the "cik" field in every file that represents a unique identifier for the companies
 
 ## Labeling
 According to the Security Exchange 146 Commission (SEC) a company in the American market is considered bankrupt in two cases:
